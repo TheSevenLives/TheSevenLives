@@ -25,7 +25,7 @@ _Soon._
 - [ ] _... (Not fully completed)_
 
 ## License
-
+The Seven Lives &copy; 2023. Distribution, derivative works or reproduction of this game is prohibited.
 
 ## Developers
 > [Xibitol](https://github.com/Xibitol) (Project Leader, Developer, Technician and Founder)
