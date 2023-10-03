@@ -7,7 +7,7 @@ students from Marcel Dassault high school for the NSI Trophy, but is now taken o
 joined the adventure.
 
 Moreover, the game is in 2D and is developed with the help of our own
-[game engine](https://github.com/TheSevenLives/TSL-GameEngine), using [Pygame](https://www.pygame.org/wiki/about).
+[game engine](https://github.com/TheSevenLives/TSL-GameEngine), using [PyOpenGL](https://pyopengl.sourceforge.net/).
 
 So, this repository contain informations about the game, its wiki and posters for its advertising campaigns.
 
@@ -30,7 +30,7 @@ The Seven Lives &copy; 2023. Distribution, derivative works or reproduction of t
 ## Developers
 > [Xibitol](https://github.com/Xibitol) (Project Leader, Developer, Technician and Founder)
 
-> [Arrti-chaud](https://github.com/Arrti-chaud) (Game Designer and Community Manager)
+> [Camille](https://github.com/Camille2706) (Game Designer and Community Manager)
 
 > [Nagisou✌](https://github.com/Nagisou) (Level Designer, Game Designer's Assistant and Founder)
 
